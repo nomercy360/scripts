@@ -8,7 +8,7 @@ else
   echo "No parameters found. "
 fi
 
-ARTAPIKEY="AKCp5Z32J7mUrGuCtHxWt4yXXKm4p1v2Yvspsv3iji8PvNSQnWHQMqJJX91GNTrGNWJ8zgH9w"
+ARTAPIKEY="****"
 BUILD_VERSION=$ZOZOver
 
 #front
